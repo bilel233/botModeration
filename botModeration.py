@@ -31,4 +31,4 @@ async def kick(ctx, member: discord.Member, *, reason=None):
 async def clear(ctx, amount: int):
     await ctx.channel.purge(limit=amount)
 
-bot.run('MTExMDUzMzUzMDg1OTA4MTc3OA.G8b4nN.z10c-l5HE5mPXLaf3YxsBFst4bVLepXRsx-ypI')
+bot.run('')
